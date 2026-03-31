@@ -1,6 +1,6 @@
-🔭 I worked on Food Delivery Analytics (Zomato Data Project)
+🔭 I worked on E-Commerce Web Applicatin Development and Food Delivery Analytics (Zomato Data Project)
 
-🌱 Currently improving my skills in Python, SQL, and Data Analytics
+🌱 Currently improving my skills in Python, SQL,Flask and Rest API
 
 💡 Interested in python Developer, Data Analysis,Data Engineer and Backend Development
 
